@@ -1,0 +1,18 @@
+.displayErrors.valid-feedback{
+    font-size: 10px;
+    color:#ff1d1d;
+    display: block;
+}
+
+.noError{
+    display: none;
+}
+
+#home .box-form .formLogin{
+    margin: 0 auto;
+    width: 30%;
+}
+
+#home .box-form label{
+    display: flex;
+}
